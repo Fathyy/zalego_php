@@ -34,7 +34,7 @@ var_dump($x == $y);
 
 $x=9;
 echo ++$x; //10
-echo "<br>";
+
 echo $y++;  //5
 
 // assignment ends
