@@ -46,7 +46,7 @@ foreach($colors as $key => $color){
 <?php 
 echo "<br>";
 
-$friends = array("Mary", "john", "Nasra", "Ayall", "Lisa");
+ $friends = array("Mary", "john", "Nasra", "Ayall", "Lisa");
 foreach($friends as $key => $friend) {
     $val = $key+1;
     echo "$val is $friend <br>";
